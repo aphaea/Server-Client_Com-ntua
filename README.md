@@ -1,0 +1,2 @@
+# Server-Client_Com-ntua
+Creation of a server-client system for a project on the Embedded Systems course at National Technical University of Athens. The server program is written in C and it is located on a Beagleboard while the client program is written in Java and it is located on a PC using MatLab. The result of the communication is passing the time and the day from server to client and vice versa.
